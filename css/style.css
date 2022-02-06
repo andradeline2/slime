@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:300,regular,500,600,700&display=swap&subset=cyrillic-ext");
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html {
+	font-size: 23px;
+}
+body {
+	line-height: 1.2;
+	color: #43a781;
+	font-family: "Comfortaa", sans-serif;
+	text-align: center;
+}
+h1,
+h2 {
+	font-size: 40px;
+	font-weight: 700;
+	color: #23674d;
+}
+a {
+	color: #1abcd8;
+	text-decoration: underline;
+}
